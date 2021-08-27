@@ -1,0 +1,24 @@
+{
+  "name": "express-routs-fun",
+  "version": "1.0.0",
+  "description": "Code along on Express Routs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rest2437/express-routs-fun.git"
+  },
+  "keywords": [],
+  "author": "Robert Estrella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rest2437/express-routs-fun/issues"
+  },
+  "homepage": "https://github.com/rest2437/express-routs-fun#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
